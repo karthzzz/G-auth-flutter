@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "297039140091",
+    "project_id": "fir-auth-dc1f8",
+    "storage_bucket": "fir-auth-dc1f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297039140091:android:030ae1b8eeb36d3029cc5e",
+        "android_client_info": {
+          "package_name": "com.madan.fitness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297039140091-c27tin87ggopfs3r5fidb1j0e5vq56ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGiUBKQxAxxv6b1boHxI2KkUAKWqB3u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297039140091-c27tin87ggopfs3r5fidb1j0e5vq56ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297039140091:android:fe8aef6bbdfd2e8129cc5e",
+        "android_client_info": {
+          "package_name": "com.example.login_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297039140091-c27tin87ggopfs3r5fidb1j0e5vq56ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuGiUBKQxAxxv6b1boHxI2KkUAKWqB3u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297039140091-c27tin87ggopfs3r5fidb1j0e5vq56ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
